@@ -1,6 +1,7 @@
 # Seja Bem vindo!
 - Meu nome é **Junior Aquino**
 - Sou Analista e Desenvolvedor de Sistemas
+- Pós em Segurança da Informação
 
 <br>
 
